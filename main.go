@@ -2,9 +2,9 @@ package main
 
 import (
  "flag"
- "github.com/akshaym-3255/practicle-raft/httpapi"
- "github.com/akshaym-3255/practicle-raft/kvstore"
- "github.com/akshaym-3255/practicle-raft/raftnode"
+ "github.com/radhika-singh-10/Raft-Key-Value-Store/httpapi"
+ "github.com/radhika-singh-10/Raft-Key-Value-Store/kvstore"
+ "github.com/radhika-singh-10/Raft-Key-Value-Store/raftnode"
  "strconv"
 )
 
